@@ -1,9 +1,9 @@
 class Swiftbrew < Formula
   desc "Homebrew for Swift packages"
   homepage "https://github.com/swiftbrew/Swiftbrew"
-  version "0.1.1"
+  version "0.1.2"
   url "https://github.com/swiftbrew/Swiftbrew/releases/download/#{version}/swiftbrew-#{version}.mojave.tar.xz"
-  sha256 "4c74b4a7e062f92dbc76b0c8e0a3f98c9e7961f49901c00a1b87fb6458b49254"
+  sha256 "85dae8785c011319b9b092b79d7e2c05ad303dee6db54ad8ad2e797689b0a52f"
   head "https://github.com/swiftbrew/Swiftbrew.git"
 
   def install
